@@ -1,4 +1,10 @@
 # vue-islamic_app
+# Hi wonderful Developers
+# This is my lovely App >>> Islamic App Or as I named it >>> Prophet's Companions --- الصحابة
+## Show you number of their characteristics and morals with a simplest way
+## I just Put four cards for for Companions each one of them have in his card five information about his life, characteristics and morals, with an ending message appears once you reach the final info and also a link to take you back to the main page.
+## Also contains on a Sign Up and a Login pages and every thing saved in localStorage.
+# Hope you Have a nice experience.
 
 This template should help get you started developing with Vue 3 in Vite.
 
