@@ -1,0 +1,11 @@
+@import './edit.scss';
+////////////////////////////////////////////////////////////////
+* {
+  font-family: 'Inconsolata', monospace;
+  @include addPrefixes(box-sizing, border-box, webkit moz ms o);
+  padding: 0;
+  margin: 0;
+  &:focus {
+    outline: none;
+  }
+}
