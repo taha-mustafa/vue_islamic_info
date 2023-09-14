@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "src/assets/images/image1.jpeg",
+    "img": "https://i.ytimg.com/vi/uavWKK8cWe0/maxresdefault.jpg",
     "name": "أبو بكر الصديق",
     "infoNum": "عشر معلومات",
     "allInformation": [
@@ -39,7 +39,7 @@
   },
   {
     "id": 2,
-    "img": "src/assets/images/image2.png",
+    "img": "https://mqall.org/wp-content/uploads/2021/03/%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B9%D9%85%D8%B1-%D8%A8%D9%86-%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8.jpg",
     "name": "عمر بن الخطاب",
     "infoNum": "عشر معلومات",
     "allInformation": [
@@ -77,7 +77,7 @@
   },
   {
     "id": 3,
-    "img": "src/assets/images/image3.jpg",
+    "img": "https://www.echoroukonline.com/wp-content/uploads/2021/08/%D8%B9%D8%AB%D9%85%D8%A7%D9%86.jpg",
     "name": "عثمان بن عفان",
     "infoNum": "عشر معلومات",
     "allInformation": [
@@ -115,7 +115,7 @@
   },
   {
     "id": 4,
-    "img": "src/assets/images/image4.jpg",
+    "img": "https://www.mosoah.com/wp-content/uploads/2021/10/-%D8%B9%D9%86-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%A3%D8%A8%D9%8A-%D8%B7%D8%A7%D9%84%D8%A8-e1635166920320.jpg",
     "name": "علي بن أبي طالب",
     "infoNum": "عشر معلومات",
     "allInformation": [
