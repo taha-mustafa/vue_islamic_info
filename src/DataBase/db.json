@@ -1,22 +1,3 @@
 {
-  "users": [
-    {
-      "name": "tahamustafa123",
-      "email": "ataha@hs.com",
-      "password": "dkeod44de4dee",
-      "id": 1
-    },
-    {
-      "name": "hahajakdlkldpde",
-      "email": "ldke@gs.com",
-      "password": "d4wed5e4d54e5d4eded",
-      "id": 2
-    },
-    {
-      "name": "dkejfkejflw;ekfj",
-      "email": "eflke@kjdf.com",
-      "password": "flewkflewflk656w5fw6e",
-      "id": 3
-    }
-  ]
+  "users": []
 }
