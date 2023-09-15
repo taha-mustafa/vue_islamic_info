@@ -74,7 +74,7 @@ export default {
       this.v$.$validate();
       if (!this.v$.$error) {
         let comingResults = await axios.get(
-          `http://localhost:3000/users?email=${this.email}&password=${this.password}`
+          `https://user-data-v3o2.onrender.com/users?email=${this.email}&password=${this.password}`
         )
         if (comingResults.status == 200 && comingResults.data.length > 0) {
           localStorage.setItem('user', JSON.stringify(comingResults.data[0]))

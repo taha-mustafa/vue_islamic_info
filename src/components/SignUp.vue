@@ -85,7 +85,7 @@ export default {
     async signUp() {
       this.v$.$validate()
       if (!this.v$.$error) {
-        let comingResults = await axios.post('http://localhost:3000/users', {
+        let comingResults = await axios.post('https://user-data-v3o2.onrender.com/users', {
           name: this.name,
           email: this.email,
           password: this.password
